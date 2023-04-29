@@ -3,7 +3,7 @@
 
 This a University project that I completed as a group in my final year of studies.
 
-##Overview
+## Overview
 We were to improve a static basic website into a dynamic website and theme. The theme is also stand alone so any dev team could use it.
 
 The github repository is linked above as it's the easiest way to maintain commit history so please go check it out (bspalding23 is my Uni account)
